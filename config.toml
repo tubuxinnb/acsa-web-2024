@@ -1,3 +1,51 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://acsalab.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ACSA Lab'
+
+[params.logo]
+longlogo = "images/acsa_light.png"
+favicon = "acsa-favicon.png"
+[params.pic]
+backgroundPic = "images/home2.jpg"
+quotePic = "images/winter.jpg"
+
+###  info in first layer bar
+[params.barinfo]
+text = "Information for:"
+
+
+[[params.barinfo.main]]
+name = "Administrator"
+link = "https://docs.acsalab.com/"
+
+
+[menu] 
+
+[[menu.main]]
+name = "People"
+url = "people"
+weight = 1
+
+[[menu.main]]
+name = "Publications"
+url = "publications"
+weight = 2
+
+[[menu.main]]
+name = "News"
+url = "/News" # folder
+weight = 5
+
+[[menu.main]]
+name = "Events"
+url = "/Events" # folder
+weight = 6
+
+[[menu.main]]
+name = "About"
+url = "about" # file
+weight = 7
+
+
+[build]
+future = "true"
