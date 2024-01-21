@@ -11,6 +11,14 @@ git clone https://github.com/ACSAlab/acsa-web-data.git static
 ## Test
 
 ```bash
+# icarus 1
 # hugo server --themesDir ../.. -t topdown --bind=222.195.72.221 --baseURL=http://222.195.72.221 -p 1314 -D -d ../../../public_2
 hugo server --buildFuture --themesDir /staff/shaojiemike/github/acsa-web-test/themes -t topdown --bind=222.195.72.221 --baseURL=http://222.195.72.221 -p 1316 -D -d ./public
+
+# snode6 
+hugo server --buildFuture --themesDir /staff/shaojiemike/github/acsa-web-test/themes -t topdown --bind=snode6.acsalab.com --baseURL=http://snode6.acsalab.com -p 1316 -D -d ./public
 ```
+
+## Questionnaire
+
+[问卷星](https://www.wjx.top/vm/tUtw8Q3.aspx)

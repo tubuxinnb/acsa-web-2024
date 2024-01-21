@@ -28,6 +28,8 @@ custmize_css: "
 }
 "
 
+aplayer: yes # no to hide mp3 player
+
 tags:
 - HPC
 - PIM
