@@ -28,7 +28,7 @@ jobs:
         run: git clone https://github.com/ACSAlab/acsa-web-data.git static
 
       - name: Build
-        run: hugo --buildFuture --baseURL "https://acsalab.github.io/acsa-web-2024/" -t topdown -d ./public
+        run: hugo --buildFuture --baseURL=https://acsalab.github.io/acsa-web-2024/ -t topdown -d ./public
 
       - name: check
         run: |
