@@ -7,7 +7,7 @@ img: https://acsa.ustc.edu.cn/images/members/lh.png # 头像链接
 year_enrollment: 2014       # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD: 2016   # 博士入学年份，来计算博士生几年级
 year_graduation: 2019       # 毕业年份，来判断是不是校友
-employment: 华为            # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment: 上海华为            # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 
 # social media
 homepage_url:           # 个人博客
@@ -17,4 +17,5 @@ email:                  # 常用邮件
 
 # 个人简介
 
-林晗
+林晗，博士生。华为2019年天才少年。
+
