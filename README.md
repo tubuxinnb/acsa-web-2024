@@ -8,6 +8,10 @@ git clone https://github.com/ACSAlab/acsa-web-data.git static
 
 **Do not add images to this repository.**
 
+## Deployment
+
+Please read [Mkdocs](https://docs.acsalab.com/) for more details.
+
 ## Test
 
 ```bash
