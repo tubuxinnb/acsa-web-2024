@@ -1,6 +1,6 @@
 ---
 # 后续与个人不符合的选项，请空缺
-cn_name: 陈俊士
+cn_name: 陈俊仕
 cn_level: 特任副研究员   # 教授，研究员（博士生,硕士生不用填
 img: https://faculty.ustc.edu.cn/_resources/group1/M00/00/39/wKhJFGOZORiAeNt_AAFd_wXlSno238.png # 头像链接
 
