@@ -1,16 +1,16 @@
 ---
-title: "FcTC-UNet: Fine-grained Combination of Transformer and CNN for Thoracic Organs Segmentation"
+title: "Whole Slide Image Multi-Classification of Cervical Epithelial Lesions Based on Unsupervised Pre-training"
 FirstAuthor:
-- Liang Qiao
-- Qiang Liu
-OtherAuthors:
-- Jun Shi
 - Minfan Zhao
-- Hongyu Kan
+OtherAuthors:
+- Min Ling
 - Zhaohui Wang
+- Jun Shi
+- Hongyu Kan
 - Hong An
-- Chenguang Xiao
-- Shuo Wang
+- Wenting Han
+- Joseph Bartlett
+- Wenqi Lu
 ConfJournal: "44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society"
 ConfJournalAbbr: EMBC
 IsAConference: "yes" # 会议填yes，期刊写 no
@@ -23,7 +23,7 @@ Award:
 Abstract: ""
 KeyWords:
 - AI
-Link: https://ieeexplore.ieee.org/document/9870880 # 官网链接 
+Link: https://ieeexplore.ieee.org/document/9871149 # 官网链接 
 PDF:  # pdf文件位置
 SLIDE: # PPT文件位置
 video:  # 会议视频
