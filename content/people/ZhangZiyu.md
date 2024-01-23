@@ -15,6 +15,9 @@ dblp_url:            # dblp
 homepage_url:         # 个人博客
 github_url:         # github主页
 email:  zzymm@mail.ustc.edu.cn     # 常用邮件
+
+hidePubs:  # yes to hide 一作论文，empty to show
+hideOtherPubs: yes # yes to hide 参与论文，empty to show
 ---
 
 # 个人简介

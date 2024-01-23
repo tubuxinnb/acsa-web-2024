@@ -17,8 +17,8 @@ homepage_url:  https://faculty.ustc.edu.cn/chenjunshi/en/index/61049/list/index.
 github_url:             # github主页
 email:  cjuns@ustc.edu.cn                # 常用邮件
 
-hidePubs: yes # yes to hide 一作论文，empty to show
-otherPubs:  # yes to show 参与论文，empty to hide
+hidePubs:  # yes to hide 一作论文，empty to show
+hideOtherPubs:  # yes to hide 参与论文，empty to show
 ---
 
 # 个人简介

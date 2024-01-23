@@ -18,7 +18,7 @@ github_url:             # github主页
 email:  hwt@ustc.edu.cn                # 常用邮件
 
 hidePubs: yes # yes to hide 一作论文，empty to show
-otherPubs:  # yes to show 参与论文，empty to hide
+hideOtherPubs: yes # yes to hide 参与论文，empty to show
 ---
 
 韩文廷，男，1965年生，安徽潜山人，副教授。
