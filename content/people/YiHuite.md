@@ -1,14 +1,14 @@
 ---
 # 后续与个人不符合的选项，请空缺
-cn_name: 许乐
+cn_name: 易会特
 cn_level:           # 教授，研究员（博士生,硕士生不用填
-img: ./images/people/Xule.png # 头像链接
+img: ./images/people/YiHuite.png # 头像链接
 
 year_enrollment:        # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD:   # 博士入学年份，来计算博士生几年级
-year_graduation: 2023       # 毕业年份，来判断是不是校友
-employment_short: 上海选调生         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
-employment: 上海公务员         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+year_graduation: 2022       # 毕业年份，来判断是不是校友
+employment_short: 阿里         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment: 杭州阿里         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 
 # social media
 googlescholar_url:          # googlescholar
@@ -20,4 +20,4 @@ email:       # 常用邮件
 
 # 个人简介
 
-许乐, 2020级硕士毕业生
+易会特, 硕士毕业生
