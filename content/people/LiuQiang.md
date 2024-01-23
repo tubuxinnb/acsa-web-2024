@@ -8,7 +8,8 @@ year_enrollment: 2020       # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD:   # 博士入学年份，来计算博士生几年级
 year_graduation: 2023        # 毕业年份，来判断是不是校友
 # employment:  合肥中国邮政储蓄银行软件研发中心         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
-employment:  合肥邮储         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment_short:  中国邮储         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment:  中国邮政储蓄银行软件研发中心（合肥）         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 
 # social media
 googlescholar_url:          # googlescholar

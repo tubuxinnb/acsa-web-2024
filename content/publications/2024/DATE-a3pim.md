@@ -11,7 +11,7 @@ ConfJournal: "Design, Automation and Test in Europe Conference"
 ConfJournalAbbr: DATE
 IsAConference: "yes" # 会议填yes，期刊写 no
 CCFLevel: "B" 
-Year: 2023
+Year: 2024
 Award: ""
 Abstract: "A3PIM1: an Automated,
 Analytic and Accurate Processing-in-Memory offloader. We sys-
@@ -22,10 +22,10 @@ KeyWords:
 - Processing-in-Memory
 - Static Analysis
 - Workload Offloading
-Link: https://ieeexplore.ieee.org/Xplore/home.jsp # 官网链接 
-PDF: https://ieeexplore.ieee.org/Xplore/home.jsp # pdf文件位置
-SLIDE: https://ieeexplore.ieee.org/Xplore/home.jsp # PPT文件位置
-video: https://bilibili.com # 会议视频
+Link:  # 官网链接 
+PDF:  # pdf文件位置
+SLIDE:  # PPT文件位置
+video: # 会议视频
 ---
 
 The performance gap between memory and proces-

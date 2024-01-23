@@ -15,8 +15,16 @@ text = "Information for:"
 
 
 [[params.barinfo.main]]
-name = "Administrator"
+name = "Docs"
 link = "https://docs.acsalab.com/"
+
+[[params.barinfo.main]]
+name = "Hosts"
+link = "https://hosts.acsalab.com/"
+
+[[params.barinfo.main]]
+name = "Monitor"
+link = "https://monitor.acsalab.com/"
 
 
 [menu] 
