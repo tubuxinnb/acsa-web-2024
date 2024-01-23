@@ -2,7 +2,7 @@
 # 后续与个人不符合的选项，请空缺
 cn_name: 安虹
 cn_level: 教授          # 教授，研究员（博士生,硕士生不用填
-img: https://pic.shaojiemike.top/shaojiemike/2023/12/4d345e868b525fe86774e969ec4a0dc7.png # 头像链接
+img: ./images/people/AnHong.png  # 头像链接
 date: 2023-01-01 # 技巧：使用hugo的日期来排序，时间越大(但是不能超过当前时间)，优先级越高。默认时间0001-01-01
 
 year_enrollment:        # 硕士入学年份，来计算硕士生几年级
