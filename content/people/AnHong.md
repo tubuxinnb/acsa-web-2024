@@ -10,12 +10,17 @@ year_enrollment_PhD:    # 博士入学年份，来计算博士生几年级
 year_graduation:        # 毕业年份，来判断是不是校友
 employment:             # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 
+motto: “红专并进，理实交融”
+
 # social media
 googlescholar_url: https://www.researchgate.net/profile/Hong-An-4         # googlescholar
 dblp_url: https://dblp.org/pid/73/5552.html
 homepage_url:  https://cs.ustc.edu.cn/2020/0426/c23235a460072/page.htm         # 个人博客
 github_url:             # github主页
 email:  han@ustc.edu.cn                # 常用邮件
+
+hidePubs: yes # yes to hide 一作论文，empty to show
+otherPubs:  # yes to show 参与论文，empty to hide
 ---
 
 

@@ -15,7 +15,10 @@ googlescholar_url:          # googlescholar
 dblp_url: 
 homepage_url:  https://cs.ustc.edu.cn/2020/0906/c23239a460117/pagem.htm        # 个人博客
 github_url:             # github主页
-email:  han@ustc.edu.cn                # 常用邮件
+email:  hwt@ustc.edu.cn                # 常用邮件
+
+hidePubs: yes # yes to hide 一作论文，empty to show
+otherPubs:  # yes to show 参与论文，empty to hide
 ---
 
 韩文廷，男，1965年生，安徽潜山人，副教授。

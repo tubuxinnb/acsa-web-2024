@@ -16,6 +16,11 @@ dblp_url: https://dblp.org/pid/120/1745.html
 homepage_url:  https://faculty.ustc.edu.cn/chenjunshi/en/index/61049/list/index.htm         # 个人博客
 github_url:             # github主页
 email:  cjuns@ustc.edu.cn                # 常用邮件
+
+hidePubs: yes # yes to hide 一作论文，empty to show
+otherPubs:  # yes to show 参与论文，empty to hide
 ---
 
-大师兄
+# 个人简介
+
+大师兄，中国科学技术大学博士后
