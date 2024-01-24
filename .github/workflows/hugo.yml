@@ -27,9 +27,12 @@ jobs:
       - name: Download small static data
         run: git clone https://github.com/ACSAlab/acsa-web-data.git static
 
-      - name: Build
+      - name: Build to github page
         run: hugo --buildFuture --baseURL=https://acsalab.github.io/acsa-web-2024/ -t topdown -d ./public
 
+      - name: Build to acsalab
+        run: hugo --buildFuture --baseURL=http://acsalab.com -t topdown -D -d ./public2
+        
       - name: check
         run: |
           ls
@@ -40,7 +43,7 @@ jobs:
         if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./public2
 
       - name: Deploy local branch
         uses: peaceiris/actions-gh-pages@v3
