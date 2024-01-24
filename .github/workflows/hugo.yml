@@ -31,7 +31,7 @@ jobs:
         run: hugo --buildFuture --baseURL=https://acsalab.github.io/acsa-web-2024/ -t topdown -d ./public
 
       - name: Build to acsalab
-        run: hugo --buildFuture --baseURL=http://acsalab.com -t topdown -D -d ./public2
+        run: hugo --buildFuture --baseURL=https://acsa.ustc.edu.cn/ -t topdown -D -d ./public2
         
       - name: check
         run: |
