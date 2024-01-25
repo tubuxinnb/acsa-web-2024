@@ -5,6 +5,12 @@ FirstAuthor:
 - Hongyu Kan
 OtherAuthors:
 - Shulan Ruan
+- Ziqi Zhu
+- Minfan Zhao
+- Liang Qiao
+- Zhaohui Wang
+- Hong An
+- Xudong Xue
 ConfJournal: "International Conference on Medical Image Computing and Computer-Assisted Intervention"
 ConfJournalAbbr: MICCAI
 IsAConference: "yes" # 会议填yes，期刊写 no

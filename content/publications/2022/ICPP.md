@@ -5,7 +5,13 @@ FirstAuthor:
 OtherAuthors:
 - Junshi Chen
 - Lingyun Wan
-ConfJournal: "Junshi Chen, Lingyun Wan,"
+- Xinming Qin
+- Jielan Li
+- Jie Liu
+- Hong An
+- Wei Hu
+- Jinlong Yang
+ConfJournal: "51st International Conference on Parallel Processing"
 ConfJournalAbbr: ICPP
 IsAConference: "yes" # 会议填yes，期刊写 no
 CCFLevel: "B" 

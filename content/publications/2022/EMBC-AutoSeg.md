@@ -5,6 +5,14 @@ FirstAuthor:
 OtherAuthors:
 - Zhaohui Wang
 - Hongyu Kan
+- Minfan Zhao
+- Xudong Xue
+- Bing Yan
+- Hong An
+- Jianjun Shen
+- Joseph Bartlett
+- Wenqi Lu
+- Jinming Duan
 ConfJournal: "44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society"
 ConfJournalAbbr: EMBC
 IsAConference: "yes" # 会议填yes，期刊写 no

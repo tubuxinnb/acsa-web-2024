@@ -5,6 +5,9 @@ FirstAuthor:
 OtherAuthors:
 - Ke Wen
 - Xiaoyu Hao
+- Xudong Xue
+- Hong An
+- Hongyan Zhang
 ConfJournal: "IEEE 17th International Symposium on Biomedical Imaging"
 ConfJournalAbbr: ISBI
 IsAConference: "yes" # 会议填yes，期刊写 no

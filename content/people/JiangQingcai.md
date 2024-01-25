@@ -25,7 +25,7 @@ email:  jqc_AT_mail.ustc.edu.cn     # 常用邮件
 
 # 教育经历
 
-- 2023年10月 - 现在 联合培养 苏黎世联邦理工学院 导师 <a href="https://people.inf.ethz.ch/omutlu/" target="blank">Onur Mutlu</a> 
+- 2023年10月 - 现在 联合培养 苏黎世联邦理工学院 导师： <a href="https://people.inf.ethz.ch/omutlu/" target="blank">Onur Mutlu</a> 
 - 2019年9月  - 现在 硕博连读 中国科学技术大学 计算机科学与技术学院  导师：<a href="https://cs.ustc.edu.cn/2020/0426/c23235a460072/page.htm" target="blank">安虹</a>     
 - 2015年9月  - 2019年7月本科 中国科学技术大学 计算机科学与技术学院 导师：<a href="https://cs.ustc.edu.cn/2020/0426/c23235a460072/page.htm" target="blank">安虹</a>
 

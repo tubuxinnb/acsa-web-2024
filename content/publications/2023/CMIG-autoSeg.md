@@ -5,6 +5,12 @@ FirstAuthor:
 OtherAuthors:
 - Zhaohui Wang
 - Shulan Ruan
+- Minfan Zhao
+- Ziqi Zhu
+- Hongyu Kan
+- Hong An
+- Xudong Xue
+- Bing Yan
 ConfJournal: "Computerized Medical Imaging and Graphics"
 ConfJournalAbbr: CMIG
 IsAConference: "no" # 会议填yes，期刊写 no

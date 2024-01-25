@@ -3,8 +3,12 @@ title: "DARNet: Dual-Attention Residual Network for Automatic Diagnosis of COVID
 FirstAuthor:
 - Jun Shi
 OtherAuthors:
+- Huite Yi
 - Shulan Ruan
-- Hongyu Kan
+- Zhaohui Wang
+- Xiaoyu Hao
+- Hong An
+- Wei Wei
 ConfJournal: "IEEE International Conference on Bioinformatics and Biomedicine"
 ConfJournalAbbr: BIBM
 IsAConference: "yes" # 会议填yes，期刊写 no

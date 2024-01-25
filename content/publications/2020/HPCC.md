@@ -5,6 +5,9 @@ FirstAuthor:
 OtherAuthors:
 - Lingyun Wan
 - Shizhe Jiao
+- Wei Hu
+- Junshi Chen
+- Hong An
 ConfJournal: "IEEE 22nd International Conference on High Performance Computing and Communications"
 ConfJournalAbbr: HPCC
 IsAConference: "yes" # 会议填yes，期刊写 no
