@@ -1,25 +1,25 @@
 # ACSA Website 2024
 
-For reasons of Git performance, we use separate repositories for text content and images. The image repo should be cloned separately.
+For reasons of Git repository performance, we use separate repositories for text content and images. The image repo should be cloned separately.
 
-```
+```shell
 git clone https://github.com/ACSAlab/acsa-web-data.git static
 ```
 
-**Do not add images to this repository.**
+**Do not add images or other large binary files to this repository.**
 
 ## Deployment
 
-Please read [Mkdocs](https://docs.acsalab.com/) for more details.
+See [documentations](https://docs.acsalab.com/web/) for more details.
 
 ## Test
 
-```bash
-# icarus 1
-# hugo server --themesDir ../.. -t topdown --bind=222.195.72.221 --baseURL=http://222.195.72.221 -p 1314 -D -d ../../../public_2
+```shell
+# on icarus1
+hugo server --themesDir ../.. -t topdown --bind=222.195.72.221 --baseURL=http://222.195.72.221 -p 1314 -D -d ../../../public_2
 hugo server --buildFuture --themesDir /staff/shaojiemike/github/acsa-web-test/themes -t topdown --bind=222.195.72.221 --baseURL=http://222.195.72.221 -p 1316 -D -d ./public
 
-# snode6 
+# on snode6 
 hugo server --buildFuture --themesDir /staff/shaojiemike/github/acsa-web-test/themes -t topdown --bind=snode6.acsalab.com --baseURL=http://snode6.acsalab.com -p 1316 -D -d ./public
 ```
 

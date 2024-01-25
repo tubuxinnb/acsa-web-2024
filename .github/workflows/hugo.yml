@@ -3,14 +3,16 @@ name: build
 on:
   push:
     branches: [master]
-  workflow_dispatch:
+  workflow_dispatch: {}
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           #submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -21,26 +23,25 @@ jobs:
           hugo-version: 'latest'
           #extended: true
 
-      - name: Download topdown theme
-        run: git clone https://github.com/Kirrito-k423/hugo-theme-topdown.git themes/topdown
+      - name: Clone the theme and static files
+        run: |
+          git clone --depth=1 --single-branch \
+            https://github.com/Kirrito-k423/hugo-theme-topdown.git themes/topdown
+          git clone --depth=1 --single-branch \
+            https://github.com/ACSAlab/acsa-web-data.git static
 
-      - name: Download small static data
-        run: git clone https://github.com/ACSAlab/acsa-web-data.git static
-
-      - name: Build
+      - name: Build to GitHub Pages
         run: hugo --buildFuture --baseURL=https://acsalab.github.io/acsa-web-2024/ -t topdown -d ./public
 
-      - name: check
-        run: |
-          ls
-          ls ..
+      - name: Build to acsalab
+        run: hugo --buildFuture --baseURL=https://acsa.ustc.edu.cn/ -t topdown -D -d ./public2
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./public2
 
       - name: Deploy local branch
         uses: peaceiris/actions-gh-pages@v3
