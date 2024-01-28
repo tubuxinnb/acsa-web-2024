@@ -11,7 +11,7 @@ quotePic = "images/winter.jpg"
 
 ###  info in first layer bar
 [params.barinfo]
-text = "Information for:"
+text = "Information:"
 
 
 [[params.barinfo.main]]
