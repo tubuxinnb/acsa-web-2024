@@ -1,7 +1,7 @@
 ---
 title: "放假通知"
 types: "notice"
-date: 2024-01-09T19:00:00+08:00
+date: 2024-01-30T15:00:00+08:00
 location: ONLINE
 img_url: 
 onlineLink:  # 线上会议
