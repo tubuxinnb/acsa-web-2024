@@ -7,7 +7,7 @@ img: https://xzt102.github.io/index_files/DSC_1295%202.png # 头像链接
 year_enrollment:        # 本科入学年份，来计算本科生几年级
 year_enrollment:        # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD:    # 博士入学年份，来计算博士生几年级
-year_graduation: 2010 #???      # 毕业年份，来判断是不是校友
+year_graduation: 2015 #???      # 毕业年份，来判断是不是校友
 employment_short: 匹兹堡大学(副教授)        # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 employment:  匹兹堡大学副教授           # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 
@@ -26,3 +26,15 @@ hideOtherPubs: yes # yes to hide 参与论文，empty to show
 # 个人简介
 
 汤旭龙, 大牛师兄
+
+# 实验室论文
+
+Xulong Tang, Hong An, Gongjin Sun, Dongrui Fan
+A Video Coding Benchmark Suite for Evaluation of Processor Capability,
+In proceedings of the 14th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing
+(SNPD13)
+
+Gu Liu, Hong An, Xiaoqiang Li, Wei Zhou, Xuechao Wei, Xulong Tang
+FlexBFS: A Parallelism-aware Implementation of Breadth-First Search on GPU,
+Accepted as a poster by 17th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+(PPoPP12)
