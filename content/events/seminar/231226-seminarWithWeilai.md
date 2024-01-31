@@ -1,5 +1,5 @@
 ---
-title: "论文研讨会(蔚来)"
+title: "顶会研讨会(蔚来)"
 types: "seminar"
 date: 2023-12-26T19:00:00+08:00
 location: "Online"

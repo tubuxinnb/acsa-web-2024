@@ -26,6 +26,14 @@ link = "https://hosts.acsalab.com/"
 name = "Monitor"
 link = "https://monitor.acsalab.com/"
 
+[[params.barinfo.main]]
+name = "Wiki"
+link = "http://wiki.acsalab.com/"
+
+[[params.barinfo.main]]
+name = "ICS"
+link = "https://acsa.ustc.edu.cn/ics/"
+
 
 [menu] 
 
