@@ -6,6 +6,7 @@ title = 'ACSA Lab'
 longlogo = "images/acsa_light.png"
 favicon = "acsa-favicon.png"
 [params.pic]
+# 首页的背景图片的要求是十分高的，需要精心筛选：分辨率首先要高，其次中心部分要留白给slogan，照片上下部分最好是深色，才能与navbar和‘Explore ACSA’的颜色和谐。
 backgroundPic = "images/home2.jpg"
 quotePic = "images/winter.jpg"
 
