@@ -5,7 +5,7 @@ date: 2023-12-26T19:00:00+08:00
 location: "Online"
 img_url: 
 onlineLink: https://vc.feishu.cn/j/417225752 # 线上会议
-abstract: "郝晓宇： Sparse Tensor Core"
+abstract: "郝晓宇：Sparse Tensor Core"
 KeyWords:
 ---
 

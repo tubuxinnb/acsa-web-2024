@@ -1,11 +1,11 @@
 ---
-title: "顶会分享会2(蔚来)"
+title: "顶会研讨会2(蔚来)"
 types: "seminar"
 date: 2024-01-09T19:00:00+08:00
 location: "Online"
 img_url: 
 onlineLink: https://vc.feishu.cn/j/417225752 # 线上会议
-abstract: "谭邵杰： 受限的地址翻译 \n 赵阳：Beyond Static Parallel Loops"
+abstract: "谭邵杰： 受限的地址翻译； \n 赵阳：Beyond Static Parallel Loops"
 KeyWords:
 ---
 

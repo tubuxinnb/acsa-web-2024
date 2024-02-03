@@ -1,5 +1,5 @@
 ---
-title: "讨论班"
+title: "研讨会"
 types: "seminar"
 date: 2023-12-22T19:30:00+08:00
 location: "致信楼 A707"
