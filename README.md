@@ -31,3 +31,5 @@ hugo server --buildFuture --themesDir /staff/shaojiemike/github/acsa-web-test/th
 
 [people img remove background](https://www.remove.bg/zh/upload)
 
+[choice 2](https://www.photoroom.com/tools/background-remover)
+
