@@ -15,3 +15,9 @@ KeyWords:
 
 【腾讯文档】2024春季学期ACSA大组会安排  
 https://docs.qq.com/sheet/DSlhFaHd4YWh1b1hO?tab=BB08J2
+
+### 3月8号
+
+1. 戴悦 —— Great advances in text-to-video models: Sora and its technical background
+2. 王超 —— Domain Specific Language :Taichi Language
+3. 张毅 —— 3.5-D Blocking Optimization for Stencil Computations on Modern CPUs and GPUs
