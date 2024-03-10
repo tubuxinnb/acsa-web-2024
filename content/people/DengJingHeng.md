@@ -7,8 +7,8 @@ img: ./images/people/DengJingHeng.jpg # 头像链接
 year_enrollment:        # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD:   # 博士入学年份，来计算博士生几年级
 year_graduation: 2020    # ???   # 毕业年份，来判断是不是校友
-employment_short: 诗和远方         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
-employment: 诗和远方         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment_short: 北京腾讯         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment: 北京腾讯         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 
 # social media
 googlescholar_url:          # googlescholar
