@@ -38,3 +38,11 @@ KeyWords:
 3. 李益达 —— 3D reconstruction with Nerf
 
 腾讯会议：`497-200-521` 点击链接入会： https://meeting.tencent.com/dm/uTKn9CTS0S7A
+
+#### 3月22号 19:30在A707
+
+1. 王朝晖 —— Surface Reconstruction from Point Clouds 
+2. 涂布新 —— NeuMMU: Architectural Support for Efcient Address Translations in Neural Processing Units
+3. 王天同 —— A survey for 3D medical image segmentation
+
+腾讯会议：`167-613-702` 点击链接入会： https://meeting.tencent.com/dm/fChnPa3ZNc0p
