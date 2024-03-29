@@ -46,3 +46,8 @@ KeyWords:
 3. 王天同 —— A survey for 3D medical image segmentation
 
 腾讯会议：`167-613-702` 点击链接入会： https://meeting.tencent.com/dm/fChnPa3ZNc0p
+
+#### 3月29号 19:30在A707
+
+1. 郝晓宇 —— A Framework for Extracting Non-conventional Instructions and Accelerators
+2. 方禧    —— Search-Based Approaches to Tensor Program Optimization
