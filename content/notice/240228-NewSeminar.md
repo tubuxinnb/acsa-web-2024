@@ -23,7 +23,7 @@ KeyWords:
 
 ## 历次组会
 
-#### 3月8号 19:30在A707 
+### 3月8号 19:30在A707 
 
 1. 戴悦 —— Great advances in text-to-video models: Sora and its technical background
 2. 王超 —— Domain Specific Language :Taichi Language
@@ -31,7 +31,7 @@ KeyWords:
 
 腾讯会议：`905-713-734` 点击链接入会： https://meeting.tencent.com/dm/hvkbMzVCdUPA 
 
-#### 3月15号 19:30在A707
+### 3月15号 19:30在A707
 
 1. 宋龙盛 —— CGRA：High Efficiency Reconfigurable Accelerator
 2. 朱先语 —— 神威超算深度学习算子性能建模
@@ -39,7 +39,7 @@ KeyWords:
 
 腾讯会议：`497-200-521` 点击链接入会： https://meeting.tencent.com/dm/uTKn9CTS0S7A
 
-#### 3月22号 19:30在A707
+### 3月22号 19:30在A707
 
 1. 王朝晖 —— Surface Reconstruction from Point Clouds 
 2. 涂布新 —— NeuMMU: Architectural Support for Efcient Address Translations in Neural Processing Units
@@ -47,7 +47,12 @@ KeyWords:
 
 腾讯会议：`167-613-702` 点击链接入会： https://meeting.tencent.com/dm/fChnPa3ZNc0p
 
-#### 3月29号 19:30在A707
+### 3月29号 19:30在A707
 
 1. 郝晓宇 —— A Framework for Extracting Non-conventional Instructions and Accelerators
 2. 方禧    —— Search-Based Approaches to Tensor Program Optimization
+
+### 4月19号 19:30在A707
+
+1. 林坤贤 —— Increasing the efficiency of stencil computation in OGCM on Sunway Supercomputer
+2. 吴若晗 —— Scheduling Deep Learning Computation and Memory Access via Graph-level Analysis for new Sunway Supercomputer
