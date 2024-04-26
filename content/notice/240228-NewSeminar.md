@@ -56,3 +56,9 @@ KeyWords:
 
 1. 林坤贤 —— Increasing the efficiency of stencil computation in OGCM on Sunway Supercomputer
 2. 吴若晗 —— Scheduling Deep Learning Computation and Memory Access via Graph-level Analysis for new Sunway Supercomputer
+
+### 4月26号 19:30在A707
+
+1. 朱子琦 —— Transformer Out：Mamba is all you need？
+2. 田永劭 —— 大模型的量化优化
+3. 刘波   —— Reducing Activation Recomputation in Large Transformer Models
