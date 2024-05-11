@@ -62,3 +62,8 @@ KeyWords:
 1. 朱子琦 —— Transformer Out：Mamba is all you need？
 2. 田永劭 —— 大模型的量化优化
 3. 刘波   —— Reducing Activation Recomputation in Large Transformer Models
+
+### 5月10号 19:30在A707
+
+1. 乔良 —— KVCache Optimation for LLM
+2. 汪涵楠 —— 交互式分割：Backbone与后续模块解耦
