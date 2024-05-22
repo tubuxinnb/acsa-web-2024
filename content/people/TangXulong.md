@@ -5,9 +5,9 @@ cn_level:    # 教授，研究员（博士生,硕士生不用填
 img: https://xzt102.github.io/index_files/DSC_1295%202.png # 头像链接
 
 year_enrollment:        # 本科入学年份，来计算本科生几年级
-year_enrollment:        # 硕士入学年份，来计算硕士生几年级
+year_enrollment: 2010       # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD:    # 博士入学年份，来计算博士生几年级
-year_graduation: 2015 #???      # 毕业年份，来判断是不是校友
+year_graduation: 2013 # 毕业年份，来判断是不是校友
 employment_short: 匹兹堡大学(副教授)        # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 employment:  匹兹堡大学副教授           # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 

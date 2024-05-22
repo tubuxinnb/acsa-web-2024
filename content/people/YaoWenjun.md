@@ -4,9 +4,9 @@ cn_name: 姚文军
 cn_level:           # 教授，研究员（博士生,硕士生不用填
 # img: ./images/people/Xule.png # 头像链接
 
-year_enrollment:        # 硕士入学年份，来计算硕士生几年级
+year_enrollment: 2014       # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD:   # 博士入学年份，来计算博士生几年级
-year_graduation: 2010 #？？？       # 毕业年份，来判断是不是校友
+year_graduation: 2017 #       # 毕业年份，来判断是不是校友
 employment_short:  科大讯飞        # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 employment:  合肥科大讯飞        # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 

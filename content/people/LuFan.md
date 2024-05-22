@@ -6,7 +6,7 @@ img: ./images/people/LiAndLu.jpg # 头像链接
 
 year_enrollment:        # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD:   # 博士入学年份，来计算博士生几年级
-year_graduation: 2023       # 毕业年份，来判断是不是校友
+year_graduation: 2020       # 毕业年份，来判断是不是校友
 employment_short: 华为         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 employment: 华为2012中硬         # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
 
