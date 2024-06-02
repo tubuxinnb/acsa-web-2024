@@ -1,11 +1,11 @@
 ---
-title: "24春 组会安排"
+title: "24春 实验室组会及报告"
 types: "notice"
-date: 2024-02-28T15:00:00+08:00
+date: 2024-05-24T15:00:00+08:00
 # location: 致信楼 A707
 img_url: images/notice/24seminar.png
 onlineLink:  # 线上会议
-abstract: "本学期组会时间定为<b>每周五晚七点半</b>，从3月8号开始。请各位同学提前做好准备"
+abstract: "本学期组会时间定为<b>每周五晚七点半</b>，从3月8号到5月24号，共9次。"
 KeyWords:
 ---
 
@@ -67,3 +67,16 @@ KeyWords:
 
 1. 乔良 —— KVCache Optimation for LLM
 2. 汪涵楠 —— 交互式分割：Backbone与后续模块解耦
+
+### 5月17号 19:30在A707
+
+1. 郑重 —— Tiled algorithms for sparse matrix multiplication on GPUs
+2. 叶言威 —— Future Work of swYAKL
+3. 张森 —— A Preliminary Study for Evaluating DSA Exploration using 3 Extensions
+
+### 5月24号 19:30在A707
+
+1. 赵敏帆 —— How to build a Multimodal LLM from existing LLMs and Image encoders？
+2. 赵阳 —— Dataflow Runtime System on GPU
+
+考虑到后续低年级考试，本学期实验室报告至此结束。
