@@ -26,7 +26,7 @@ jobs:
       - name: Clone the theme and static files
         run: |
           git clone --depth=1 --single-branch \
-            https://github.com/Kirrito-k423/hugo-theme-topdown.git themes/topdown
+            https://github.com/AFlyingSheep/hugo-theme-topdown.git themes/topdown
           git clone --depth=1 --single-branch \
             https://github.com/ACSAlab/acsa-web-data.git static
 
