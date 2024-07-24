@@ -68,6 +68,10 @@ name = "About"
 url = "about" # file
 weight = 8
 
+[[menu.main]]
+name = "Join us"
+url = "/Joinus"
+weight = 9
 
 [build]
 future = "true"
