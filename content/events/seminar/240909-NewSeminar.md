@@ -23,4 +23,16 @@ KeyWords:
 
 ## 历次组会
 
-即将到来......
+### 9月27号 19:30在A707
+
+1. 张毅 ———— A shared compilation stack for distributed-memory parallelism in stencil DSLs
+
+2. 王超 ———— 稀疏LU分解的数值分解优化方法的发展及趋势调研
+
+### 10月11号 19:30在A707
+
+1. 朱先语 —— xCCL: A Survey of Industry-Led Collective Communication Libraries for Deep Learning
+
+2. 李昊青 —— AI for Protein
+
+3. 刘波 —— 简析神威平台矩阵乘法库
