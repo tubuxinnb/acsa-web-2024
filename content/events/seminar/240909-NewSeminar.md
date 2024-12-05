@@ -36,3 +36,33 @@ KeyWords:
 2. 李昊青 —— AI for Protein
 
 3. 刘波 —— 简析神威平台矩阵乘法库
+
+### 10月18号 19:30在A707
+
+1. 涂布新 —— Some works about memory managements in PIM
+
+2. 田永劭 ——AI for 大气物理
+
+3. 方禧 ——大模型 RAG 基础：文档切分、信息检索、文本向量化及重排序
+
+### 11月8号 19:30在A707
+
+1. 郑重—— DCU编程指南
+
+2. 朱子琦—— Exploring the Capabilities and Limitations of Deep Learning in Weather Forecasting
+
+### 11月15号 19:30在A707
+
+1. 赵阳 —— Sparse triangular solve on GPU
+
+2. 宋龙盛 —— 量子计算现状：研究与应用
+
+3. 曹士衡 —— the analytical model for gpu
+
+### 11月29号 19:30在A707
+
+1. 吴若晗 —— 基于扩散模型的海洋预测预报
+
+2. 戴悦 —— Reduction and utilization of hallucinations in LVLMs
+
+3. 叶言威 —— Future Work of swYAKL
