@@ -66,12 +66,17 @@ weight = 7
 [[menu.main]]
 name = "About"
 url = "about" # file
-weight = 8
+weight = 9
 
 [[menu.main]]
 name = "Join us"
 url = "/Joinus"
-weight = 9
+weight = 10
+
+[[menu.main]]
+name = "Services"
+url = "/Services" # folder
+weight = 8
 
 [build]
 future = "true"
