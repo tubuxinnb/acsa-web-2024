@@ -20,51 +20,40 @@ email:  shijun18@mail.ustc.edu.cn     # 常用邮件
 
 # 个人简介
 
-石军， 2020级博士生，ACSA实验室HPDA方向，主要研究方向为医学影像分析、多模态大模型以及大模型训练与推理框架
+石军， 现任中国科学技术大学计算机科学与技术学院博士后研究员，于2024年获得中国科学技术大学计算机科学技术专业博士学位，现为ACSA实验室HPDA方向负责人，主要研究方向有AI for Medicine & Science, ML System。以技术骨干的身份多次参加国家重点研发计划、中科院先导B等重要课题的研发工作。近五年共发表高水平论文30余篇，其中一作论文11篇，通讯1篇，包括ASPLOS、IJCAI、MICCAI等CCF A/B类国际会议和Nature Communications、The Lancet Oncology、CMIG等国际期刊，申请国家发明专利14项（已授权5项）。担任多个国际知名会议的审稿人，包括MICCAI、ICASSP等。
 
-# 学生工作
+主要研究方向为：
 
-- 2021年中国科大时珍书院院长助理
-- 2022年计算机学院机器智能党支部书记
-
-
-# 助教课程
-
-* 2021 中国科学技术大学 计算机学院 计算之美
+- AI for Medicine: AI技术在疾病辅助诊疗中的应用，多模态、低代价医学数据智能分析方法
+- AI for Science: AI技术在地球系统模拟（气象、海洋等）、生物学以及材料科学中的应用
+- ML System: AI模型的训练-推理优化技术，高效的AI训练-推理框架及系统构建
 
 # 研究项目
 
-* 科大新医学项目—多源影像融合系统
-* KBR横向课题—基于超声的3D心脏重建
-* 崂山实验室项目—面向新一代国产超算的大模型训练优化框架
-* 华为横向课题—NPU系统仿真与建模：AI Benchmark设计
-* 蔚来横向课题—面向车载设备的AI算子自动融合方法研究
+* 2023.09-2026.08—中科院先导B项目—适配国产异构系统架构的数据流编程和运行时系统框架
+* 2016.07-2020.09—国家重点研发计划—面向异构融合数据流加速器的运行时系统（已结题）
+* 2021.08-2022.08—华为横向课题—NPU系统仿真与建模：AI Benchmark设计（已结题）
+* 2022.12-2023.11—蔚来横向课题—面向自动驾驶芯片的算子自动融合方案（已结题）
+* 2019.03-2020.12—KBR横向课题—右心室超声影像的解剖结构点自动标识技术（已结题）
+* 2018.07-2021.06—科大新医学项目—面向肿瘤临床诊疗的多源影像大数据智能融合分析软件和系统 （已结题）
 
 
 # 获奖情况
 
-* 2022.12. 安徽省研究生党员标兵
-* 2023.03. 中国科大研究生党员标兵
-* 2022.12. 中国科大-英特尔奖学金
-* 2023.10. 中国科大-英特尔奖学金
-* 2021.10. 第四届世界声博会十大人工智能新锐团队
-* 2021.10. Inte全球AI影响力嘉年华创造者赛道最高奖
-* 2020-2022. 科大讯飞1024 AI开发者大赛冠军（10项）
-* 2021.10. 科大讯飞1024 AI开发者大赛十佳算法团队
-* 2018-2019年全国并行应用挑战赛铜奖
-* 2020.06. ISC世界大学生超算竞赛冠军（教练）
-* 2023.05. ASC世界大学生超算竞赛亚军（教练）
-
-# 已发表论文
-
-发表论文20篇，其中一作（英文）：
-
-<!-- [**MICCAI**] "H-DenseFormer: An Efficient Hybrid Densely Connected Transformer for Multimodal Tumor Segmentation". **<u>Jun Shi</u> **, ＜u>Hongyu Kan＜/u> , Shulan Ruan, et al. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 2023, (CCF B).
-
-[**CMIG**] "Rethinking Automatic Segmentation of Gross Target Volume from a Decoupling Perspective". **＜u>Jun Shi＜/u> **, Zhaohui Wang, Shulan Ruan, et al. Computerized Medical Imaging and Graphics (CMIG), 2023, (SCI Q1, IF=5.7).
-
-[**BIBM**] "DARNet: Dual-Attention Residual Network for Automatic Diagnosis of COVID-19 via CT Images". **＜u>Jun Shi＜/u> **, Shulan Ruan, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2021, (CCF B).
-
-[**EMBC**] "Automatic Segmentation of Target Structures for Total Marrow and Lymphoid Irradiation in Bone Marrow Transplantation". **＜u>Jun Shi＜/u> **, Zhaohui Wang Z, Hongyu Kan, et al. 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). 2022, (医学影像领域会议).
-
-[**ISBI**] "A Novel U-Like Network for the Segmentation of Thoracic Organs". **＜u>Jun Shi＜/u> **, Ke Wen, Xiaoyu Hao, et al. IEEE 17th International Symposium on Biomedical Imaging (ISBI). 2020, (医学影像领域会议). -->
+* 2024年度中国科大"小米青年学者"
+* 2024年度中国科大"*墨子杰出青年特资津贴"（一等）
+* 2024年第三批全国高校“百名研究生党员标兵”  
+* 2024年中国科大郭永怀奖学金
+* 2024年安徽省优秀毕业生
+* 2024年中国科大优秀毕业生
+* 2023年中国科大优秀共产党员
+* 2023年中国科大-英特尔奖学金
+* 2023年ASC世界大学生超算竞赛亚军（教练）
+* 2022年安徽省研究生党员标兵
+* 2022年中国科大-英特尔奖学金
+* 2021年第四届世界声博会十大人工智能新锐团队（队长）
+* 2021年全球AI影响力嘉年华创造者赛道最高奖（队长）
+* 2020年ISC世界大学生超算竞赛冠军（教练）
+* 2020-2022.年科大讯飞1024 AI开发者大赛10项算法冠军（队长）
+* 2021年科大讯飞1024 AI开发者大赛十佳算法团队（队长）
+* 2018-2019年年全国并行应用挑战赛铜奖

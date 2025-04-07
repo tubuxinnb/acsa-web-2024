@@ -2,8 +2,8 @@
 title: "Carver: Learning to Reconstruct Right Ventricle from Sparse Multi-View 2D Echocardiograms"
 FirstAuthor:
 - Yida Li
-OtherAuthors:
 - Jun Shi
+OtherAuthors:
 - Zhaohui Wang
 - Tiantong Wang
 - Ziqi Zhu

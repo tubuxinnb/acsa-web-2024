@@ -2,8 +2,8 @@
 title: "Pruner: A Draft-then-Verify Exploration Mechanism to Accelerate Tensor Program Tuning"
 FirstAuthor:
 - Liang Qiao
-OtherAuthors:
 - Jun Shi
+OtherAuthors:
 - Xiaoyu Hao
 - Xi Fang
 - Sen Zhang
