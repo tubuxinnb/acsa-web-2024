@@ -14,6 +14,8 @@ OtherAuthors:
 ConfJournal: "Annual International Conference of the IEEE Engineering in Medicine and Biology Society"
 ConfJournalAbbr: EMBC
 IsAConference: "yes" # 会议填yes，期刊写 no
+IsOutofCS: "yes" # 其他领域会议，填yes (比如医疗影响领域会议)
+OutofCSLabel: "CAAI B" # 医疗影像领域会议
 CCFLevel: "B" 
 Year: 2024
 Award: ""

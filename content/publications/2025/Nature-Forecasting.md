@@ -19,7 +19,10 @@ OtherAuthors:
 ConfJournal: "Nature Communications"
 ConfJournalAbbr: Nature Communications
 IsAConference: "no" # 会议填yes，期刊写 no
-CCFLevel: ""
+IsOutofCS: # 其他领域会议，填yes (比如医疗影响领域会议)
+OutofCSLabel: # 医疗影像领域会议
+CCFLevel: "A" # 必填,用于排序。 期刊1234区，对应A B C D
+JournalLabel: "SCI Q1, IF=14.7" # SCI Q1, IF=5.7 
 Year: 2025
 Award: ""
 Abstract: "We develop WenHai, a data-driven eddy-resolving global ocean forecast system (GOFS), by training a deep neural network (DNN). The bulk formulae on momentum, heat, and freshwater fluxes are incorporated into the DNN to improve the representation of air-sea interactions. Ocean dynamics is exploited in the DNN architecture design to preserve ocean mesoscale eddy variability."
