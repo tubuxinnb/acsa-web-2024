@@ -13,7 +13,10 @@ OtherAuthors:
 ConfJournal: "IEEE Transactions on Parallel and Distributed Systems"
 ConfJournalAbbr: TPDS
 IsAConference: "no" # 会议填yes，期刊写 no
+IsOutofCS: "no" # 其他领域会议，填yes (比如医疗影响领域会议)
+OutofCSLabel: "" # 医疗影像领域会议
 CCFLevel: "A" 
+JournalLabel: "" # SCI Q1, IF=5.7 
 Year: 2022
 Award: ""
 Abstract: ""
