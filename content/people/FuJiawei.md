@@ -8,8 +8,9 @@ img: ./images/people/FuJiawei.png # 头像链接
 year_enrollment_undergraduate:  2017      # 本科入学年份，来计算本科生几年级
 year_enrollment: 2021       # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD:    # 博士入学年份，来计算博士生几年级
-year_graduation:        # 毕业年份，来判断是不是校友
-employment:             # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+year_graduation: 2025       # 毕业年份，来判断是不是校友
+employment: 字节跳动     # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment_short: 字节跳动
 
 # social media
 googlescholar_url:      # googlescholar

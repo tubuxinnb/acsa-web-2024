@@ -6,8 +6,9 @@ img: ./images/people/ZhangZiyu.jpg # 头像链接
 
 year_enrollment: 2018       # 硕士入学年份，来计算硕士生几年级
 year_enrollment_PhD: 2020  # 博士入学年份，来计算博士生几年级
-year_graduation:        # 毕业年份，来判断是不是校友
-employment: 新疆大学          # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+year_graduation: 2025       # 毕业年份，来判断是不是校友
+employment: 深圳腾讯          # 实验室毕业工作去向：e.g. 百度，MIT，中石化，公务员
+employment_short: 深圳腾讯
 
 # social media
 googlescholar_url:          # googlescholar
@@ -28,7 +29,7 @@ hideOtherPubs: yes # yes to hide 参与论文，empty to show
 
 * 2014.09-2018.05 USTC 中国科学技术大学 信息科学技术 本科
 * 2018.09-2020.06 USTC 中国科学技术大学 计算机系统结构 硕士
-* 2020.09-至今 USTC 中国科学技术大学 计算机系统结构 博士(在读)
+* 2020.09-2025.06 中国科学技术大学 计算机系统结构 博士
 
 # 研究方向
 
